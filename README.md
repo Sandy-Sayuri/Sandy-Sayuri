@@ -1,4 +1,4 @@
-## Oiii ! eu sou a Sandy Sayuri,estudadente de ciencia da computação!
+## Oiii ! eu sou a Sandy Sayuri,estudante de ciencia da computação!
 <div align="center">
   <a href="https://github.com/Sandy-Sayuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandy-Sayuri&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
